@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/P_Amedia">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/pamoviesrequest">[ P A MOVIES ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
