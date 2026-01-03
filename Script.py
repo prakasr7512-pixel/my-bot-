@@ -231,12 +231,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
 CAPTION = """<b><a >{file_name}</a></b>\n\n<b>
 
-    
-    MOVIE_UPDATE_NOTIFY_TXT = """
-</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
-
-<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename}</code>
-
 🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
 📺 ᴏᴛᴛ        : <b>{ott}</b>
 🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
