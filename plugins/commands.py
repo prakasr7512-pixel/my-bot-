@@ -101,8 +101,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('✪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✪', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✧ ɢʀᴏᴜᴘ ✧', url='https://t.me/+AOjcHxBEowBhYTRl'),
-                    InlineKeyboardButton('✧ ᴄʜᴀɴɴᴇɪ ✧', url='https://t.me/MovieHuntZone')
+                    InlineKeyboardButton('✧ ɢʀᴏᴜᴘ ✧', url='https://t.me/pamoviesrequest'),
+                    InlineKeyboardButton('✧ ᴄʜᴀɴɴᴇɪ ✧', url='https://t.me/P_A_Backup')
                 ],[
                     InlineKeyboardButton('✧ ʜᴇʟᴘ ✧', callback_data='help'),
                     InlineKeyboardButton('✧ ᴀʙᴏᴜᴛ ✧', callback_data='about')
@@ -136,8 +136,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('✪ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ✪', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('✧ ɢʀᴏᴜᴘ ✧', url='https://t.me/+AOjcHxBEowBhYTRl'),
-                    InlineKeyboardButton('✧ ᴄʜᴀɴɴᴇɪ ✧', url='https://t.me/MovieHuntZone')
+                    InlineKeyboardButton('✧ ɢʀᴏᴜᴘ ✧', url='https://t.me/pamoviesrequest'),
+                    InlineKeyboardButton('✧ ᴄʜᴀɴɴᴇɪ ✧', url='https://t.me/P_A_Backup')
                 ],[
                     InlineKeyboardButton('✧ ʜᴇʟᴘ ✧', callback_data='help'),
                     InlineKeyboardButton('✧ ᴀʙᴏᴜᴛ ✧', callback_data='about')
